@@ -1,0 +1,4 @@
+well	sample
+B2	MN example
+C2	MN example
+D2	MN example
